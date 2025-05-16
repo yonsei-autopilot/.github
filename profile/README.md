@@ -11,13 +11,13 @@
 <img src="https://github.com/user-attachments/assets/ad9a527f-9559-4798-b0bf-c9e97aba7927" width="250">
 
 ## 📹  Demo Video Link
-To watch the video, please click [here](https://youtu.be/xgI_YVYmu8w?si=Q8OsW5eD6RQjDyDN)
+📹 Demo Video: [Watch Demo](https://youtu.be/xgI_YVYmu8w?si=Q8OsW5eD6RQjDyDN)
 
-## 🛠 Project Architecure
+## 🛠 Project Architecture
 <img src="https://github.com/user-attachments/assets/b54257f8-9b41-4fc8-9112-498c33dff8ce">
 
 ## 📱 Execution Method
-For Android User
+For Android Users
 
 1. Download the apk file for your mobile version [here](https://github.com/yonsei-autopilot/smart-menu-flutter/tree/main/release)
 2. Run the apk file on your phone.
@@ -29,4 +29,4 @@ For Android User
 
 ## 📞 Contact
 📧 Email: autopilot0516@gmail.com <br>
-📽️ YouTube: autopilot0516@gmail.com
+📽️ YouTube: [DishCovery](https://youtube.com/@dishcovery-yonsei?si=GhpIMHrPXtKalrPh)
