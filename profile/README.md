@@ -19,7 +19,7 @@ To watch the video, please click [here](https://youtu.be/xgI_YVYmu8w?si=Q8OsW5eD
 ## 📱 Execution Method
 For Android User
 
-1. Download the apk file for your mobile version [here](https://drive.google.com/file/d/1kGfDpGxef2GCXzI7FxOAFCZ5XAP4Oqcg/view?usp=sharing)
+1. Download the apk file for your mobile version [here](https://github.com/yonsei-autopilot/smart-menu-flutter/tree/main/release)
 2. Run the apk file on your phone.
 
 ## 👥 Contributors
