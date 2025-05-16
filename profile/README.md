@@ -14,7 +14,7 @@
 To watch the video, please click [here](https://youtu.be/xgI_YVYmu8w?si=Q8OsW5eD6RQjDyDN)
 
 ## 🛠 Project Architecure
-<img src="https://github.com/user-attachments/assets/6d01018e-7de0-456a-845f-d657b3e2418b">
+<img src="https://github.com/user-attachments/assets/b54257f8-9b41-4fc8-9112-498c33dff8ce">
 
 ## 📱 Execution Method
 For Android User
